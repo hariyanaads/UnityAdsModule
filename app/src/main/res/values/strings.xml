@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">UnityAds Pro</string>
+    <string name="app_subtitle">Unity Ads Reward Maximizer</string>
+    <string name="developer">DbzBanten</string>
+    <string name="developer_credit">Developed by DbzBanten</string>
+
+    <!-- UI Labels -->
+    <string name="label_multiplier">REWARD MULTIPLIER</string>
+    <string name="label_features">FEATURES</string>
+    <string name="label_status">STATUS</string>
+    <string name="label_anti_cheat">Anti-Cheat Bypass</string>
+    <string name="label_anti_cheat_desc">Bypass root &amp; emulator detection</string>
+    <string name="label_traffic">Traffic Manipulation</string>
+    <string name="label_traffic_desc">Add delay to ad connections</string>
+    <string name="label_analytics">Block Analytics</string>
+    <string name="label_analytics_desc">Prevent tracking &amp; data collection</string>
+    <string name="label_debug">Debug Mode</string>
+    <string name="label_debug_desc">Enable verbose logging</string>
+
+    <!-- Buttons -->
+    <string name="btn_save">SAVE SETTINGS</string>
+    <string name="btn_reset">RESET</string>
+    <string name="btn_test">TEST</string>
+
+    <!-- Messages -->
+    <string name="msg_note">Note: Changes apply to new game sessions. Restart game after saving.</string>
+    <string name="msg_warning">High multiplier may cause detection</string>
+
+    <!-- Status -->
+    <string name="status_checking">CHECKING...</string>
+    <string name="status_active">ACTIVE</string>
+    <string name="status_saved">SAVED</string>
+    <string name="status_error">ERROR</string>
+</resources>

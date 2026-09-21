@@ -1,0 +1,50 @@
+# Gradle
+.gradle/
+build/
+*/build/
+gradle-app.setting
+!gradle-wrapper.jar
+!gradle-wrapper.properties
+
+# Android Studio
+.idea/
+*.iml
+*.iws
+*.ipr
+/local.properties
+/.idea/workspace.xml
+/.idea/libraries
+/.idea/modules.xml
+/.idea/vcs.xml
+/.idea/gradle.xml
+/.idea/assetWizardSettings.xml
+/.idea/dictionaries
+/.idea/caches
+/.idea/navEditor.xml
+
+# OS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# APK
+*.apk
+*.ap_
+*.aab
+
+# Java
+*.class
+*.jar
+*.war
+*.ear
+
+# Log
+*.log
+
+# Keystore
+*.jks
+*.keystore

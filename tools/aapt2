@@ -1,0 +1,11 @@
+#!/data/data/com.termux/files/usr/bin/sh
+
+export LD_PRELOAD=
+
+PREFIX=/data/data/com.termux/files/usr
+GLIBC="$PREFIX/glibc"
+
+exec "$GLIBC/lib/ld-linux-aarch64.so.1" \
+  --library-path "$GLIBC/lib" \
+  "$GLIBC/bin/box64" \
+  "$HOME/android-sdk/build-tools/34.0.0/aapt2" "$@"

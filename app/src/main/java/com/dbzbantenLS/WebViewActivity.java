@@ -15,7 +15,7 @@ public class WebViewActivity extends Activity {
     
     private WebView webView;
     private Button btnStar, btnRefresh, btnStop;
-    private static final String BASE_URL = "https://script.google.com/macros/s/AKfycbzZExAchskYfYZwj1w0KV_0ZQuAFrR_RzTTbzWNVuy7sRad3mhwJ-FoTrmW4POZwKON/exec";
+    private static final String BASE_URL = "https://script.google.com/macros/s/AKfycbzPM2g9tGdDkawi3RpN5-nyxcp0qFTx47c_M1M54qUhIsfWuN6131a5TzsS3kJch_W4/exec";
     
     @Override
     protected void onCreate(Bundle savedInstanceState) {
